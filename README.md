@@ -1,3 +1,3 @@
-# employee-management
+# Employee Management
 
-A simple employee management app from a YouTube course built using Spring Boot.
+A simple employee management app built using Spring Boot and Thymeleaf.
